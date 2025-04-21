@@ -35,6 +35,7 @@
 
 <br/>
 ## ⚙ 기술 스택
+
 ### Backend
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
@@ -44,18 +45,23 @@
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
 </div>
 
-### Infra
+### Frontend
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Render.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Netlify.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Html.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Css.png?raw=true" width="80">
 </div>
+
+### Infra
+- Render (Backend)
+- Netlify (Frontend)
 
 ### Tools
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
 </div>
-
 
 <br/>
 
