@@ -40,16 +40,14 @@
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
-  <br/>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/WebSocket.png?raw=true" width="80">
 </div>
 
 ### Infra
 <div>
-<img src="https://avatars.githubusercontent.com/u/41714101?s=200&v=4" width="80" title="Render">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width="80" title="Netlify">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Render.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Netlify.png?raw=true" width="80">
 </div>
 
 ### Tools
@@ -57,6 +55,7 @@
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
 </div>
+
 
 <br/>
 
