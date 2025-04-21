@@ -48,7 +48,8 @@
 
 ### Infra
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
+<img src="https://avatars.githubusercontent.com/u/41714101?s=200&v=4" width="80" title="Render">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width="80" title="Netlify">
 </div>
 
 ### Tools
