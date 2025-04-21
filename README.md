@@ -34,7 +34,6 @@
 
 
 <br/>
-
 ## ⚙ 기술 스택
 ### Backend
 <div>
@@ -47,8 +46,7 @@
 
 ### Infra
 <div>
-<b>Render</b> (Backend)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width="100" title="Netlify"> (Frontend)
+<b>Render</b> (Backend) &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width="100" title="Netlify"> (Frontend)
 </div>
 
 ### Tools
