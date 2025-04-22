@@ -2,7 +2,7 @@
 
 <!-- logo -->
 
-### TeamVerse - 협업 툴 프로젝트 🛠
+# TeamVerse - 협업 툴 프로젝트 🛠
 
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-demo video-blue?style=flat&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=1Er1CtSh3UA&t=12s) [<img src="https://img.shields.io/badge/release-v1.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]()  
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2025.02~2025.03-green?style=flat&logo=&logoColor=white" />]()
