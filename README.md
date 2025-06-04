@@ -7,7 +7,6 @@
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-demo video-blue?style=flat&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=1Er1CtSh3UA&t=12s) [<img src="https://img.shields.io/badge/release-v1.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]()  
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2025.02~2025.03-green?style=flat&logo=&logoColor=white" />]()
 
-</div> 
 
 <br/>
 
@@ -34,44 +33,6 @@
 
 
 <br/>
-<!--
-## 🖥 TeamVerse 기능 시나리오 및 UX 흐름
-
-> 랜딩 → 로그인 → 대시보드 → 업무 등록 → 실시간 채팅까지의 사용자 흐름을 시각적으로 보여줍니다.
-
-### 🔹 랜딩 및 회원가입 흐름
-<img src="https://github.com/user-attachments/assets/e8066011-969a-438a-8cd1-98b2e670850b" width="500"/>
-<img src="https://github.com/user-attachments/assets/25c936d5-db98-4e4f-a71e-c904e10dceec" width="500"/>
-
-### 🔹 대시보드 진입 및 사이드바 기능
-<img src="https://github.com/user-attachments/assets/e4d25f38-888c-4c70-a5b4-22faffe62432" width="500"/>
-<img src="https://github.com/user-attachments/assets/fad0dd09-2992-4e72-b6cb-0c4b64108b61" width="500"/>
-<img src="https://github.com/user-attachments/assets/d3d5dfb4-6c66-430f-8af8-81b72f7de823" width="500"/>
-<img src="https://github.com/user-attachments/assets/3a3b5d71-d51f-4cdb-a75d-88586c0d5a53" width="500"/>
-<img src="https://github.com/user-attachments/assets/a03bacd5-44a1-4dc9-99e6-b005ff07016e" width="500"/>
-
-### 🔹 개인 채팅 기능 (WebSocket 기반)
-<img src="https://github.com/user-attachments/assets/d3b8661b-1a83-4392-981d-11729d605778" width="500"/>
-
-### 🔹 NAVIGATION BAR 기능
-<img src="https://github.com/user-attachments/assets/19c8b10d-e198-4b12-81b0-4508bb784855" width="500"/>
-<img src="https://github.com/user-attachments/assets/a274a4c5-c06c-4253-a176-39f5ea6cd946" width="500"/>
-<img src="https://github.com/user-attachments/assets/e20573ca-6019-4065-bd6c-88fe9d1e8167" width="500"/>
-
-### 🔹 업무 CRUD 기능
-<img src="https://github.com/user-attachments/assets/d4b516ae-3cb4-4ee7-8822-2bae0e6b7493" width="500"/>
-<img src="https://github.com/user-attachments/assets/a018ba35-8331-44c5-86ae-5732aa38a5de" width="500"/>
-<img src="https://github.com/user-attachments/assets/f9605b88-9494-4b5e-8096-4082d41fb1c4" width="500"/>
-
-### 🔹 프로젝트 상세 페이지 기능
-<img src="https://github.com/user-attachments/assets/4bd81df9-5d38-4e34-90af-c67f6c56366d" width="500"/>
-<img src="https://github.com/user-attachments/assets/31ffb317-8609-4540-81be-9dce3b4bf17e" width="500"/>
-
-
-### 🔹 프로젝트 상세 페이지 탭 기능 - 피드/업무/간트차트/파일
-<img src="https://github.com/user-attachments/assets/3833e902-6be0-4dc9-8334-461f8611a8bf" width="500"/>
-<img src="https://github.com/user-attachments/assets/4c56a107-3cdd-43d3-86b7-8d52858e7b4c" width="500"/>
--->
 
 
 
@@ -298,3 +259,4 @@
 
 ---
 
+</div> 
