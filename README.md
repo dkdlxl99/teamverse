@@ -188,22 +188,6 @@
 
 <br/>
 
-## 🛠️ 프로젝트 아키텍처
-> MVC 기반 설계 + 실시간 통신(WebSocket)  
-> DB는 MariaDB, 보안은 JWT 인증을 기반으로 구성되었습니다.
-
-<br/>
-
-## 🤔 기술적 이슈와 해결 과정
--**WebSocket 인증 처리**
-  -WebSocket 연결 시 JWT 토큰을 검증하여 인증된 사용자만 채팅 가능하도록 구현
--**JPA Lazy Loading 문제**
-  -엔티티 순환 참조 방지를 위해 `@JsonIgnoreProperties`, `@JsonIgnore`를 적극 사용
--**파일 업로드/다운로드 기능**
-  -AWS S3를 연동해 확장성을 고려했으며, 대용량 파일도 처리할 수 있도록 개선 예정
-
-<br/>
-
 
 ## 🗂️ 주요 데이터베이스 테이블
 |Table|Description|
@@ -233,12 +217,15 @@
 <br/>
 
 ## 🤔 기술적 이슈와 해결 과정
--**WebSocket 인증 처리**
-  -WebSocket 연결 시 JWT 토큰을 검증하여 인증된 사용자만 채팅 가능하도록 구현
--**JPA Lazy Loading 문제**
-  -엔티티 순환 참조 방지를 위해 `@JsonIgnoreProperties`, `@JsonIgnore`를 적극 사용
--**파일 업로드/다운로드 기능**
-  -AWS S3를 연동해 확장성을 고려했으며, 대용량 파일도 처리할 수 있도록 개선 예정
+
+- **WebSocket 인증 처리**<br/>
+  WebSocket 연결 시 JWT 토큰을 검증하여 인증된 사용자만 채팅 가능하도록 구현
+
+- **JPA Lazy Loading 문제**<br/>
+  엔티티 순환 참조 방지를 위해 `@JsonIgnoreProperties`, `@JsonIgnore`를 적극 사용
+
+- **파일 업로드/다운로드 기능**<br/>
+  AWS S3를 연동해 확장성을 고려했으며, 대용량 파일도 처리할 수 있도록 개선 예정
 
 <br/>
 
