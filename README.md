@@ -43,31 +43,32 @@
 <img src="https://github.com/user-attachments/assets/e8066011-969a-438a-8cd1-98b2e670850b" width="500"/>
 <img src="https://github.com/user-attachments/assets/25c936d5-db98-4e4f-a71e-c904e10dceec" width="500"/>
 
-### 🔹 대시보드 진입 및 프로젝트 확인
+### 🔹 대시보드 진입 및 사이드바 기능
 <img src="https://github.com/user-attachments/assets/9298eb98-d78b-486f-bb07-5682b0a2a4e0" width="500"/>
 <img src="https://github.com/user-attachments/assets/2d4ddff7-1e5b-4b35-bf7b-f3523c114949" width="500"/>
-<img src="https://github.com/user-attachments/assets/a9a36a80-5107-4f88-a260-609cb8e77a19" width="500"/>
-
-### 🔹 업무(Task) 관리 및 Gantt 차트
+<img src="https://https://github.com/user-attachments/assets/a9a36a80-5107-4f88-a260-609cb8e77a19" width="500"/>
 <img src="https://github.com/user-attachments/assets/b9464719-d960-4779-a565-d2a97133acb5" width="500"/>
 <img src="https://github.com/user-attachments/assets/728df67a-e56f-4d54-b3fc-e314c413b67e" width="500"/>
+
+### 🔹 개인 채팅 기능 (WebSocket 기반)
 <img src="https://github.com/user-attachments/assets/e8e21b8b-1033-46bd-abe4-2265b56139a2" width="500"/>
 
-### 🔹 업무 상세 보기 및 파일 업로드
+### 🔹 NAVIGATION BAR 기능
 <img src="https://github.com/user-attachments/assets/19c8b10d-e198-4b12-81b0-4508bb784855" width="500"/>
 <img src="https://github.com/user-attachments/assets/a274a4c5-c06c-4253-a176-39f5ea6cd946" width="500"/>
 <img src="https://github.com/user-attachments/assets/e20573ca-6019-4065-bd6c-88fe9d1e8167" width="500"/>
 
-### 🔹 피드 & 댓글 기능
+### 🔹 업무 CRUD 기능
 <img src="https://github.com/user-attachments/assets/d4b516ae-3cb4-4ee7-8822-2bae0e6b7493" width="500"/>
 <img src="https://github.com/user-attachments/assets/a018ba35-8331-44c5-86ae-5732aa38a5de" width="500"/>
-
-### 🔹 개인/팀 채팅 기능 (WebSocket 기반)
 <img src="https://github.com/user-attachments/assets/f9605b88-9494-4b5e-8096-4082d41fb1c4" width="500"/>
+
+### 🔹 프로젝트 상세 페이지 기능
 <img src="https://github.com/user-attachments/assets/4bd81df9-5d38-4e34-90af-c67f6c56366d" width="500"/>
 <img src="https://github.com/user-attachments/assets/31ffb317-8609-4540-81be-9dce3b4bf17e" width="500"/>
 
-### 🔹 팀 초대 및 알림 UX
+
+### 🔹 프로젝트 상세 페이지 탭 기능 - 피드/업무/간트차트/파일
 <img src="https://github.com/user-attachments/assets/3833e902-6be0-4dc9-8334-461f8611a8bf" width="500"/>
 <img src="https://github.com/user-attachments/assets/4c56a107-3cdd-43d3-86b7-8d52858e7b4c" width="500"/>
 
