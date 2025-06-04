@@ -156,7 +156,7 @@
 </div>
 
 ### Infra
--Render (Backend)
+-Render (Backend)</br>
 -Netlify (Frontend)
 
 ### Tools
