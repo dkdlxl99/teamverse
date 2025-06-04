@@ -44,11 +44,11 @@
 <img src="https://github.com/user-attachments/assets/25c936d5-db98-4e4f-a71e-c904e10dceec" width="500"/>
 
 ### 🔹 대시보드 진입 및 사이드바 기능
-<img src="https://github.com/user-attachments/assets/9298eb98-d78b-486f-bb07-5682b0a2a4e0" width="500"/>
-<img src="https://github.com/user-attachments/assets/2d4ddff7-1e5b-4b35-bf7b-f3523c114949" width="500"/>
-<img src="https://https://github.com/user-attachments/assets/a9a36a80-5107-4f88-a260-609cb8e77a19" width="500"/>
-<img src="https://github.com/user-attachments/assets/b9464719-d960-4779-a565-d2a97133acb5" width="500"/>
-<img src="https://github.com/user-attachments/assets/728df67a-e56f-4d54-b3fc-e314c413b67e" width="500"/>
+<img src="https://github.com/user-attachments/assets/e4d25f38-888c-4c70-a5b4-22faffe62432" width="500"/>
+<img src="https://github.com/user-attachments/assets/fad0dd09-2992-4e72-b6cb-0c4b64108b61" width="500"/>
+<img src="https://github.com/user-attachments/assets/d3d5dfb4-6c66-430f-8af8-81b72f7de823" width="500"/>
+<img src="https://github.com/user-attachments/assets/3a3b5d71-d51f-4cdb-a75d-88586c0d5a53" width="500"/>
+<img src="https://github.com/user-attachments/assets/a03bacd5-44a1-4dc9-99e6-b005ff07016e" width="500"/>
 
 ### 🔹 개인 채팅 기능 (WebSocket 기반)
 <img src="https://github.com/user-attachments/assets/d3b8661b-1a83-4392-981d-11729d605778" width="500"/>
