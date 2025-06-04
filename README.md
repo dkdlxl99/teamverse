@@ -89,7 +89,73 @@
 > MVC 기반 설계 + 실시간 통신(WebSocket)  
 > DB는 MariaDB, 보안은 JWT 인증을 기반으로 구성되었습니다.
 
-![architecture](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
+<br/>
+
+## 🤔 기술적 이슈와 해결 과정
+- **WebSocket 인증 처리**
+  - WebSocket 연결 시 JWT 토큰을 검증하여 인증된 사용자만 채팅 가능하도록 구현
+- **JPA Lazy Loading 문제**
+  - 엔티티 순환 참조 방지를 위해 `@JsonIgnoreProperties`, `@JsonIgnore`를 적극 사용
+- **파일 업로드/다운로드 기능**
+  - AWS S3를 연동해 확장성을 고려했으며, 대용량 파일도 처리할 수 있도록 개선 예정
+
+<br/>
+
+## 💁‍♂️ 프로젝트 팀원
+|Backend|Frontend|
+|:---:|:---:|
+| ![정선우## Backend
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
+</div>
+
+### Frontend
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/HTMLCSS.png?raw=true" width="80">
+</div>
+
+### Infra
+- Render (Backend)
+- Netlify (Frontend)
+
+### Tools
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+</div>
+
+<br/>
+
+## 🗂️ 주요 데이터베이스 테이블
+|Table|Description|
+|:---|:---|
+|users|사용자 계정 정보|
+|teams|팀 정보|
+|projects|프로젝트 정보|
+|tasks|업무(Task) 정보|
+|task_dependencies|업무 간 의존성 관리|
+|team_members|팀원 및 역할 관리|
+|posts|피드(게시글) 데이터|
+|comments|게시글 및 업무에 대한 댓글|
+|chat_messages|프로젝트 채팅 메시지|
+|private_chat_message|개인 채팅 메시지|
+|file_info|업로드된 파일 정보|
+|likes|게시글 및 업무에 대한 리액션|
+|invites|팀 초대 요청 관리|
+|activity_logs|사용자 활동 기록|
+|user_emojis|사용자별 즐겨찾는 이모지|
+
+<br/>
+
+## 🛠️ 프로젝트 아키텍처
+> MVC 기반 설계 + 실시간 통신(WebSocket)  
+> DB는 MariaDB, 보안은 JWT 인증을 기반으로 구성되었습니다.
 
 <br/>
 
@@ -106,8 +172,8 @@
 ## 💁‍♂️ 프로젝트 팀원
 |Backend|Frontend|
 |:---:|:---:|
-| ![](https://github.com/your-github-id.png?size=120) | (프론트엔드 팀원 추가 시 여기에) |
-|[변다혜](https://github.com/your-github-id)| |
+| ![정선우](https://github.com/sunwoo9801.png?size=120) | 프로젝트의 Front-end, 메세징 기능을 담당했습니다. |
+|[변다혜](https://github.com/dkdlxl99)| |
 
 > 프로젝트의 Back-end, API 설계, 데이터베이스 모델링을 담당했습니다.
 
