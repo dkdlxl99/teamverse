@@ -169,6 +169,7 @@
 
 <br/>
 
+<!--
 ## 💁‍♂️ 프로젝트 팀원
 |Backend|Frontend|
 |:---:|:---:|
@@ -176,6 +177,11 @@
 |[변다혜](https://github.com/dkdlxl99)| |
 
 > 프로젝트의 Back-end, API 설계, 데이터베이스 모델링을 담당했습니다.
+-->
+## 💁‍♂️ 프로젝트 팀원
+| Backend | Frontend |
+|:---:|:---:|
+| [변다혜](https://github.com/dkdlxl99) <br>프로젝트의 Back-end, API 설계, 데이터베이스 모델링을 담당했습니다. | ![정선우](https://github.com/sunwoo9801.png?size=120) <br>프로젝트의 Front-end, 메세징 기능을 담당했습니다. |
 
 ---
 
