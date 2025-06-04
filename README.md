@@ -88,8 +88,8 @@
 ### 🔹 랜딩 및 회원가입 흐름
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/e8066011-969a-438a-8cd1-98b2e670850b" width="300"/></td>
-<td><img src="https://github.com/user-attachments/assets/25c936d5-db98-4e4f-a71e-c904e10dceec" width="300"/></td>
+<td><img src="https://github.com/user-attachments/assets/e8066011-969a-438a-8cd1-98b2e670850b" width="480"/></td>
+<td><img src="https://github.com/user-attachments/assets/25c936d5-db98-4e4f-a71e-c904e10dceec" width="480"/></td>
 </tr>
 </table>
 
