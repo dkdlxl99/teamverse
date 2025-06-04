@@ -156,8 +156,8 @@
 </div>
 
 ### Infra
-- Render (Backend)
-- Netlify (Frontend)
+-Render (Backend)
+-Netlify (Frontend)
 
 ### Tools
 <div>
@@ -189,27 +189,6 @@
 <br/>
 
 
-## 🗂️ 주요 데이터베이스 테이블
-|Table|Description|
-|:---|:---|
-|users|사용자 계정 정보|
-|teams|팀 정보|
-|projects|프로젝트 정보|
-|tasks|업무(Task) 정보|
-|task_dependencies|업무 간 의존성 관리|
-|team_members|팀원 및 역할 관리|
-|posts|피드(게시글) 데이터|
-|comments|게시글 및 업무에 대한 댓글|
-|chat_messages|프로젝트 채팅 메시지|
-|private_chat_message|개인 채팅 메시지|
-|file_info|업로드된 파일 정보|
-|likes|게시글 및 업무에 대한 리액션|
-|invites|팀 초대 요청 관리|
-|activity_logs|사용자 활동 기록|
-|user_emojis|사용자별 즐겨찾는 이모지|
-
-<br/>
-
 ## 🛠️ 프로젝트 아키텍처
 > MVC 기반 설계 + 실시간 통신(WebSocket)  
 > DB는 MariaDB, 보안은 JWT 인증을 기반으로 구성되었습니다.
@@ -218,13 +197,13 @@
 
 ## 🤔 기술적 이슈와 해결 과정
 
-- **WebSocket 인증 처리**<br/>
+-**WebSocket 인증 처리**<br/>
   WebSocket 연결 시 JWT 토큰을 검증하여 인증된 사용자만 채팅 가능하도록 구현
 
-- **JPA Lazy Loading 문제**<br/>
+-**JPA Lazy Loading 문제**<br/>
   엔티티 순환 참조 방지를 위해 `@JsonIgnoreProperties`, `@JsonIgnore`를 적극 사용
 
-- **파일 업로드/다운로드 기능**<br/>
+-**파일 업로드/다운로드 기능**<br/>
   AWS S3를 연동해 확장성을 고려했으며, 대용량 파일도 처리할 수 있도록 개선 예정
 
 <br/>
