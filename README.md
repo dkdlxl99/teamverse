@@ -51,7 +51,7 @@
 <img src="https://github.com/user-attachments/assets/728df67a-e56f-4d54-b3fc-e314c413b67e" width="500"/>
 
 ### 🔹 개인 채팅 기능 (WebSocket 기반)
-<img src="https://github.com/user-attachments/assets/e8e21b8b-1033-46bd-abe4-2265b56139a2" width="500"/>
+<img src="https://github.com/user-attachments/assets/d3b8661b-1a83-4392-981d-11729d605778" width="500"/>
 
 ### 🔹 NAVIGATION BAR 기능
 <img src="https://github.com/user-attachments/assets/19c8b10d-e198-4b12-81b0-4508bb784855" width="500"/>
